@@ -1,0 +1,2 @@
+# InspirationalQuoteGeneratorV2
+InspirationalQuoteGeneratorV2
